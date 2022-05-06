@@ -4,4 +4,7 @@ b1 edit 3
 b1 edit 4
 homeServer edit1
 b2 edit 1
+master edit 1
+b1 edit 5
 (save all)
+(finally we save all)
