@@ -7,6 +7,6 @@ b2 edit 1
 master edit 1
 b1 edit 5
 (save all)
-(finally we save all)
+(finally we save all)(this is mac-master-edit)
 homServer master edit2
 homServer master edit3
